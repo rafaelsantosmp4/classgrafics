@@ -2,29 +2,29 @@
 ![code](https://github.com/user-attachments/assets/c1c5c80c-068f-4934-9942-1763dfc3e29e)
 
 # Funções ⚙
-- Coleta nomes e notas de até 5 alunos.
-- Valida se as notas estão dentro da faixa de 0 a 10.
-- Gera um gráfico de barras agrupadas para comparar as notas entre os diferentes bimestres.
+- Recebe nomes e notas de até 5 alunos.
+- Verifica se as notas estão dentro da faixa de 0 a 10.
+- Gera um gráfico de barras agrupadas para comparar as notas.
 
 ## Requisitos 💫
 - Python 3.x
-- Biblioteca `matplotlib`
+- _matplotlib_
 
-Você pode instalar a biblioteca necessária usando pip:
+Você pode instalar a biblioteca usando pip no cmd ou bash:
 ```console
 pip install matplotlib
 ```
 
 ## Exemplo 🪐
-Aqui está um exemplo de como pode ser a inserção de dados e a visualização:
+Exemplo da visualização:
 
 ```java
 Digite a quantidade de alunos no total (max. 5): 3
 Digite o nome do 1º aluno: Alice
-Digite a nota do aluno Alice para o 1º bimestre (0-10): 8
-Digite a nota do aluno Alice para o 2º bimestre (0-10): 9
-Digite a nota do aluno Alice para o 3º bimestre (0-10): 7
-Digite a nota do aluno Alice para o 4º bimestre (0-10): 8
+Digite a nota do aluno Alice para o 1º bimestre (0-10): 9
+Digite a nota do aluno Alice para o 2º bimestre (0-10): 7
+Digite a nota do aluno Alice para o 3º bimestre (0-10): 10
+Digite a nota do aluno Alice para o 4º bimestre (0-10): 10
 ... (inserção de dados para outros alunos)
 ```
 O gráfico resultante mostrará as notas de cada aluno comparadas ao longo dos 4 bimestres:
