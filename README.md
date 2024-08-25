@@ -1,10 +1,7 @@
 # Code 👨‍💻
 ![code](https://github.com/user-attachments/assets/c1c5c80c-068f-4934-9942-1763dfc3e29e)
 
-# Sobre 🍨
-Este script de estudo em Python coleta e visualiza as notas dos alunos ao longo de vários bimestres. Ele utiliza a biblioteca `matplotlib` para gerar um gráfico de barras agrupadas que compara as notas de até 5 alunos.
-
-## Funções ⚙
+# Funções ⚙
 - Coleta nomes e notas de até 5 alunos.
 - Valida se as notas estão dentro da faixa de 0 a 10.
 - Gera um gráfico de barras agrupadas para comparar as notas entre os diferentes bimestres.
