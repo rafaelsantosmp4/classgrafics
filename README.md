@@ -27,6 +27,6 @@ Digite a nota do aluno Alice para o 3º bimestre (0-10): 10
 Digite a nota do aluno Alice para o 4º bimestre (0-10): 10
 ... (inserção de dados para outros alunos)
 ```
-O gráfico resultante mostrará as notas de cada aluno comparadas ao longo dos 4 bimestres:
+O gráfico mostra as notas de cada aluno ao longo dos 4 bimestres:
 
 ![image](https://github.com/user-attachments/assets/941debed-fdcc-427c-9269-1b2fc5ef9d24)
