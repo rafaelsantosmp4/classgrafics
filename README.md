@@ -30,3 +30,7 @@ Digite a nota do aluno Alice para o 4º bimestre (0-10): 10
 O gráfico mostra as notas de cada aluno ao longo dos 4 bimestres:
 
 ![image](https://github.com/user-attachments/assets/941debed-fdcc-427c-9269-1b2fc5ef9d24)
+
+
+# Licença
+- [**GPL-2.0 license**](https://github.com/rafaelsantosmp4/classgrafics/blob/master/LICENSE)
